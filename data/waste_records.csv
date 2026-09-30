@@ -1,0 +1,7 @@
+item_name,material,condition,quantity,category,status,recommendation
+Water bottle,plastic,clean,2,Plastic Waste,Recyclable,Rinse when appropriate and place clean plastic in the recycling stream.
+Newspaper,paper,clean,5,Paper Waste,Recyclable,Keep paper clean and dry; send it to paper recycling.
+Glass jar,glass,clean,3,Glass Waste,Recyclable,Separate glass from general waste and use a suitable glass collection point.
+Aluminium can,metal,clean,4,Metal Waste,Recyclable,Separate metal items and send them to an appropriate metal recycling stream.
+Banana Peel,organic,clean,3,Organic Waste,Biodegradable,Compost suitable food and garden waste where a composting option is available.
+Old Phone,e-waste,damaged,1,E-Waste,Special Disposal Required,Do not put electronics in ordinary rubbish; use an authorised e-waste collection point.
